@@ -1,4 +1,4 @@
-import java.awt.geom.Rectangle2D;
+import java.awt.geom.Rectangle2D; // Testing out something.
 public class Main { // This class defines rectangles.
     public static void main (String [] args) {
         // Using an existing swing/awt class to make a rectangle object.
